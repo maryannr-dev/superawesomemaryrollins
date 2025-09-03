@@ -10,14 +10,15 @@
 ---
 
 ## 🛠️ Tech & Tools
-- **Languages:** Java, Python, HTML, CSS, JavaScript (future: Kotlin, Dart) 
+- **Languages:** Java, Python, HTML, CSS (future: Kotlin, Dart) 
 - **Frameworks/Platforms:** Android Studio, Git/GitHub, (future: Flutter)  
 - **Other skills:** UI/UX design principles, responsive layouts  
 
 ---
 
 ## 🌟 Featured Projects
-- **📱 Mobile Habit Tracker (in progress)** – Console-based version built in Java, evolving into an Android app.    
+- **📱 Mobile Habit Tracker (in progress)** – Console-based version built in Java, evolving into an Android app.
+- **💸 Tip Calculator** - Android app built using Java, calculates tip amounts for restaurant or taxi bills.    
 
 ---
 
